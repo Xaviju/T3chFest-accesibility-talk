@@ -7,6 +7,7 @@ a11y project -> https://a11yproject.com/
 ## Articles
 
 Ley de accesibilidad universal para las personas con discapacidad -> http://www.ortoweb.com/blogortopedia/ley-de-accesibilidad-universal-para-las-personas-con-discapacidad/
+Web Accessibility in the UK – True Facts [infographic] -> https://www.abrightclearweb.com/web-accessibility-in-the-uk/
 
 ### Dev
 - Stefan Judis. Accessibility resources -> https://www.stefanjudis.com/useful-accessibility-resources/
