@@ -15,6 +15,7 @@ Web Accessibility in the UK – True Facts [infographic] -> https://www.abrightc
 - Hands-on With ARIA: Accessibility Recipes for Web Apps -> https://code.tutsplus.com/articles/best-practices-for-aria-implementation--cms-32238
 - Accesibility Cheatsheet -> https://moritzgiessmann.de/accessibility-cheatsheet/
 - Making SVG accessible -> http://decks.tink.uk/2017/lws/index.html
+- Technica11y videos -> https://www.technica11y.org/all-posts
 
 ### Test
 - Lighthouse -> https://developers.google.com/web/tools/lighthouse/
