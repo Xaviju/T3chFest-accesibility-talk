@@ -16,6 +16,7 @@ Web Accessibility in the UK – True Facts [infographic] -> https://www.abrightc
 - Accesibility Cheatsheet -> https://moritzgiessmann.de/accessibility-cheatsheet/
 - Making SVG accessible -> http://decks.tink.uk/2017/lws/index.html
 - Technica11y videos -> https://www.technica11y.org/all-posts
+- ID24 talks -> https://www.youtube.com/playlist?list=PLS59XSfegGa5KvDsMcj7_B57UW3CjLKf7
 
 ### Test
 - Lighthouse -> https://developers.google.com/web/tools/lighthouse/
