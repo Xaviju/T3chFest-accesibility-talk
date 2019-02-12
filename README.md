@@ -27,3 +27,6 @@ Web Accessibility in the UK – True Facts [infographic] -> https://www.abrightc
 ### Design
 - Cris Busquets. Cómo diseñar una web o una app accesible -> https://www.uifrommars.com/como-disenar-web-app-accesible/
 - Designing for accessibility is not that hard -> https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
+
+### Tweets
+ - https://twitter.com/fox/status/1095117600827133952
