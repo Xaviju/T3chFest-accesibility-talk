@@ -9,6 +9,7 @@ a11y project -> https://a11yproject.com/
 
 Ley de accesibilidad universal para las personas con discapacidad -> http://www.ortoweb.com/blogortopedia/ley-de-accesibilidad-universal-para-las-personas-con-discapacidad/
 Web Accessibility in the UK – True Facts [infographic] -> https://www.abrightclearweb.com/web-accessibility-in-the-uk/
+Heck yes, accessibility — let’s make the future awesome -> https://uxdesign.cc/future-tech-accessibility-e93600e8917e
 
 ### Dev
 - W3C - Using ARIA -> https://w3c.github.io/using-aria/
