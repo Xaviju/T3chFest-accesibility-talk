@@ -23,7 +23,11 @@ a11y project -> https://a11yproject.com/
 - Technica11y videos -> https://www.technica11y.org/all-posts
 - ID24 talks -> https://www.youtube.com/playlist?list=PLS59XSfegGa5KvDsMcj7_B57UW3CjLKf7
 
-### Tutorial
+#### React
+- React accesibility -> https://reactjs.org/docs/accessibility.html
+- Tenon-ui -> https://www.tenon-ui.info/
+
+### Tutorials
 W3C Web Accesibility tutorials -> https://www.w3.org/WAI/tutorials/
 
 ### Test
