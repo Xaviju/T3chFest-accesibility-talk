@@ -34,6 +34,7 @@ W3C Web Accesibility tutorials -> https://www.w3.org/WAI/tutorials/
 - Lighthouse -> https://developers.google.com/web/tools/lighthouse/
 - Paciello Group - Accesibility testing tools we use -> https://developer.paciellogroup.com/blog/2019/02/accessibility-testing-tools-we-use/
 - Juan José Montiel | ¡Se me ha roto la accesibilidad! | Codemotion Madrid 2018 -> https://www.youtube.com/watch?v=FQIyogkuw0A
+- Nvda Testing Driver: Automate your tests with a screen reader -> https://github.com/kastwey/nvda-testing-driver
 
 ### Design
 - Cris Busquets. Cómo diseñar una web o una app accesible -> https://www.uifrommars.com/como-disenar-web-app-accesible/
