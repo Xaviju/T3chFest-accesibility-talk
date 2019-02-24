@@ -21,7 +21,10 @@
     - Fullstack
         - Back to the front
     - Front-end
-        - Technology
+        - Select personalizados
+        - jerarquías h1, h6 + Web components
+        - SPA
+        - Control del foco
     - Design
         - Color
     - UX
@@ -34,6 +37,7 @@
         - Storybook a11y plugin
         - Screen reader
         - Accesibility specialist
+        - Test con usuarios
     - Client
 1. Resultados a final del proyecto.
     - Derrotas
