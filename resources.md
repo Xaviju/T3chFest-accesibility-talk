@@ -2,8 +2,11 @@
 Recursos para la charla del T3chFest de `Accesible, que no es poco`
 
 ## Projects
-html5accesibility -> https://www.html5accessibility.com/#sections
-a11y project -> https://a11yproject.com/
+- [html5accesibility](https://www.html5accessibility.com/#sections)
+- [a11y project](https://a11yproject.com/)
+
+## Blogs
+- Paciello Group blog: https://developer.paciellogroup.com/blog/
 
 ## Articles
 
