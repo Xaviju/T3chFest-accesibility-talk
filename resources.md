@@ -63,4 +63,5 @@ Recursos para la charla del T3chFest de `Accesible, que no es poco`
 - [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ### Tweets
- - [](https://twitter.com/fox/status/1095117600827133952)
+ - [fox](https://twitter.com/fox/status/1095117600827133952)
+ - [codeability](https://twitter.com/codeability/status/1102598302606880769)
