@@ -25,30 +25,31 @@ Recursos para la charla del T3chFest de `Accesible, que no es poco`
 - [Regaining Sigh by Leonie Watson](https://tink.uk/regaining-sigh)
 - [Too much information by Leonie watson](https://tink.uk/screen-readers-aria-html5-too-much-information/)
 
-### Dev
+## Dev
 - [Accesibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 - [The practical value of semantic HTML by Bruce Lawson](https://www.brucelawson.co.uk/2018/the-practical-value-of-semantic-html/)
 - [Understanding Semantics by Leonie Watson](https://tink.uk/understanding-semantics/)
 - [Making SVG accessible](http://decks.tink.uk/2017/lws/index.html)
 - [Accessibility resources by Stefan Judis](https://www.stefanjudis.com/useful-accessibility-resources/)
+- [A11y learning plan](https://github.com/stringyland/a11y-learning-plan)
 
-#### Videos
+### Videos
 - [Technica11y videos](https://www.technica11y.org/all-posts)
 - [ID24 talks](https://www.youtube.com/playlist?list=PLS59XSfegGa5KvDsMcj7_B57UW3CjLKf7)
 
-#### ARIA
+### ARIA
 - [W3C - Using ARIA](https://w3c.github.io/using-aria/)
 - [Quick guide to the ARIA specifications](https://tink.uk/quick-guide-to-the-aria-specifications/)
 - [Hands-on With ARIA: Accessibility Recipes for Web Apps](https://code.tutsplus.com/articles/best-practices-for-aria-implementation--cms-32238)
 
-#### React
+### React
 - [React accesibility](https://reactjs.org/docs/accessibility.html)
 - [Tenon-ui](https://www.tenon-ui.info/)
 
-### Tutorials
+## Tutorials
 - [W3C Web Accesibility tutorials](https://www.w3.org/WAI/tutorials/)
 
-### Test
+## Test
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [Paciello Group - Accesibility testing tools we use](https://developer.paciellogroup.com/blog/2019/02/accessibility-testing-tools-we-use/)
 - [Juan José Montiel | ¡Se me ha roto la accesibilidad! | Codemotion Madrid 2018](https://www.youtube.com/watch?v=FQIyogkuw0A)
