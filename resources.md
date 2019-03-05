@@ -45,6 +45,7 @@ Recursos para la charla del T3chFest de `Accesible, que no es poco`
 ### React
 - [React accesibility](https://reactjs.org/docs/accessibility.html)
 - [Tenon-ui](https://www.tenon-ui.info/)
+- [Accessibility is not a “React Problem”](https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/)
 
 ## Tutorials
 - [W3C Web Accesibility tutorials](https://www.w3.org/WAI/tutorials/)
