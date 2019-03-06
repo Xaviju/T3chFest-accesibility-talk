@@ -62,6 +62,7 @@ Recursos para la charla del T3chFest de `Accesible, que no es poco`
 ### Design
 - [Cris Busquets. Cómo diseñar una web o una app accesible](https://www.uifrommars.com/como-disenar-web-app-accesible/)
 - [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+- [Accessibility, a powerful design tool](https://slack.design/accessibility-a-powerful-design-tool-22f5e6d46278)
 
 ### Tweets
  - [fox](https://twitter.com/fox/status/1095117600827133952)
