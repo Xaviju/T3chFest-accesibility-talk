@@ -8,6 +8,7 @@ Recursos para la charla del T3chFest de `Accesible, que no es poco`
 - [html5accesibility](https://www.html5accessibility.com/#sections)
 - [a11y project](https://a11yproject.com/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+- [Accessibility Reviews](https://a11y.reviews/)
 
 ## Blogs
 - [Paciello Group blog](https://developer.paciellogroup.com/blog/)
